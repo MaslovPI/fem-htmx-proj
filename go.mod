@@ -1,6 +1,6 @@
 module github.com/maslovpi/fem-htmx-proj
 
-go 1.25.6
+go 1.25.7
 
 require github.com/labstack/echo/v4 v4.15.0
 
